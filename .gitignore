@@ -162,7 +162,4 @@ cython_debug/
 #.idea/
 
 backups/
-ideas.md
-*.py
 *.txt
-*.json
